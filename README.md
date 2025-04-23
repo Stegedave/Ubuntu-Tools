@@ -30,13 +30,10 @@ Would you like to 'clear' current terminal window? >>:
 
 Enter yes to clear the screen or no to keep the output visible.
 
-## 🧠 Why This Script?
+## 🌱 Personal Note
+This project was one of my early steps into Python and automation. It's intentionally left in its original form as a marker of where I started, and how far I've come.
 
-Automates repetitive tasks
-
-Great for beginners learning automation
-
-Easily extendable (e.g., add autoremove, autoclean, logging, etc.)
+Keeping it simple reminds me that every expert was once a beginner.
 
 ## 🔒 Important Notes
 
