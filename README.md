@@ -38,13 +38,13 @@ Great for beginners learning automation
 
 Easily extendable (e.g., add autoremove, autoclean, logging, etc.)
 
-##🔒 Important Notes
+## 🔒 Important Notes
 
 sudo is required for system updates/upgrades
 
 Use responsibly—this script will apply all available updates
 
-##📄 License
+## 📄 License
 
 MIT License – Use it, fork it, modify it.
 
