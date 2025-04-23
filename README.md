@@ -33,8 +33,6 @@ Enter yes to clear the screen or no to keep the output visible.
 ## 🌱 Personal Note
 This project was one of my early steps into Python and automation. It's intentionally left in its original form as a marker of where I started, and how far I've come.
 
-Keeping it simple reminds me that every expert was once a beginner.
-
 ## 🔒 Important Notes
 
 sudo is required for system updates/upgrades
